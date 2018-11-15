@@ -12,15 +12,25 @@
 3. Execute the experiment, which measures response times of these three servers:
 
 	Pinging 128.199.144.199 with 32 bytes of data:
+	
 	Reply from 128.199.144.199: bytes=32 time=216ms TTL=51
+	
 	Reply from 128.199.144.199: bytes=32 time=207ms TTL=51
+	
 	Reply from 128.199.144.199: bytes=32 time=211ms TTL=51
+	
 	Reply from 128.199.144.199: bytes=32 time=195ms TTL=51
+	
 	Reply from 128.199.144.199: bytes=32 time=196ms TTL=51
+	
 	Reply from 128.199.144.199: bytes=32 time=195ms TTL=51
+	
 	Reply from 128.199.144.199: bytes=32 time=222ms TTL=51
+	
 	Reply from 128.199.144.199: bytes=32 time=211ms TTL=51
+	
 	Reply from 128.199.144.199: bytes=32 time=224ms TTL=51
+	
 	Reply from 128.199.144.199: bytes=32 time=212ms TTL=51
 	
 	For 128.199.144.199 the average time it took was 208ms, while the maximum was 224ms and the minimum was 195ms.

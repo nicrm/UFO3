@@ -19,3 +19,7 @@
 
 4. Evaluate your experiment and interpret the measurements and results.
 
+	From what i can tell my assumption was correct, that the longer away the servers are the longer the ping times would take, as the first
+	one which took the longes 128.199.144.199, was in Singapore. The next one was 167.99.51.33 which was based in the US in New Jersey
+	The last one was based in Frankfurt, Germany and took the least time to ping.
+

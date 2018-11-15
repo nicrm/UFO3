@@ -1,4 +1,4 @@
-								BENCHMARKING
+						BENCHMARKING
 
 1. Formulate a hypothesis/problem statement about behavior of ping times of these three servers:
 

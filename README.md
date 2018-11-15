@@ -22,6 +22,7 @@
 	Reply from 128.199.144.199: bytes=32 time=211ms TTL=51
 	Reply from 128.199.144.199: bytes=32 time=224ms TTL=51
 	Reply from 128.199.144.199: bytes=32 time=212ms TTL=51
+	
 	For 128.199.144.199 the average time it took was 208ms, while the maximum was 224ms and the minimum was 195ms.
 	
 	Pinging 167.99.51.33 with 32 bytes of data:
@@ -35,6 +36,7 @@
 	Reply from 167.99.51.33: bytes=32 time=110ms TTL=53
 	Reply from 167.99.51.33: bytes=32 time=92ms TTL=53
 	Reply from 167.99.51.33: bytes=32 time=101ms TTL=53
+	
 	For 167.99.51.33 the average time it took was 97ms, while the maximum was 110ms and the minimum was 92ms.
 	
 	Pinging 46.101.253.149 with 32 bytes of data:
@@ -48,6 +50,7 @@
 	Reply from 46.101.253.149: bytes=32 time=20ms TTL=56
 	Reply from 46.101.253.149: bytes=32 time=20ms TTL=56
 	Reply from 46.101.253.149: bytes=32 time=39ms TTL=56
+	
 	For 46.101.253.149 the average time it took was 26ms, while the maximum was 39ms and the minimum was 17ms.
 
 4. Evaluate your experiment and interpret the measurements and results

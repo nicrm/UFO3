@@ -1,3 +1,5 @@
+								BENCHMARKING
+
 1. Formulate a hypothesis/problem statement about behavior of ping times of these three servers:
   The reason some of the ping times are longer than others is most likely due to the range from where we ping them from are, so the farther
 	away the the server we ping is, the longer it will take.

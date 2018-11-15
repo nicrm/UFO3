@@ -15,3 +15,4 @@
 	For 46.101.253.149 the average time it took was 26ms, while the maximum was 39ms and the minimum was 17ms.
 
 4. Evaluate your experiment and interpret the measurements and results.
+
